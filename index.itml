@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>国旗学習サイト</title>
+        <link rel="stylesheet" href="kokkistyle.css"
+    </head>
+    <body>
+        <div class="header">
+            <div class="header-logo">国旗を覚えよう</div>
+            <div class="header-list">
+                <ul>
+                    <li>アジア</li>
+                    <li>ヨーロッパ</li>
+                    <li>北アメリカ</li>
+                    <li>南アメリカ</li>
+                    <li>アフリカ</li>
+                    <li>オセアニア</li>
+                    <li>クイズ</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="main">
+            <div class="main-top">
+                <h1>国旗を覚えよう</h1>
+                <p>海外旅行に行く前に</p>
+                <p>国旗を覚えて詳しくなろう！</p>
+            </div>
+
+            <div class="bottun-wrapper">
+                <a href="#" class ="btn asia">アジア</a>
+                <a href="#" class = "btn europe">ヨーロッパ</a>
+                <a href="#" class = "btn north-america">北アメリカ</a>
+                <a href="#" class = "btn south-america">南アメリカ</a>
+                <a href="#" class="btn africa">アフリカ</a>
+                <a href="#" class = "btn oceania">オセアニア</a>
+                <a href="#" class = "btn quiz">クイズ</a>                
+            </div>
+        </div>
+        
+
+
+
+    </body>
+</html>
