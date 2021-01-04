@@ -1,0 +1,82 @@
+body{
+    font-family: "Avenir Next";
+}
+
+li {
+    list-style: none;
+    float:left;
+  }
+
+
+.header {
+    background-color: #26d0c9;
+    color: #fff;
+    height: 90px;
+}
+
+
+
+.header-logo {
+    float:left;
+    font-size: 36px;
+    padding: 20px 40px;
+}
+
+.header-list li {
+    float: left;
+    padding: 33px 20px;
+  }
+
+
+.main {
+    padding:180px 0 100px 0;
+    background-image:url(https://www.enidlive.com/wp-content/uploads/2020/09/iStock_UnitedNations_090220.jpg);
+    background-size: cover;
+    text-align:center;
+}
+
+.main-top h1{
+    color:beige;
+    font-size:80px;
+    padding: 60px 10px 50px 0;
+}
+
+.main-top p {
+    font-size:50px
+}
+
+.btn {
+    padding:8px 24px;
+    color: white;
+    opacity:0.8;
+    border-radius:4px;
+}
+
+.asia {
+    background-color: red;
+}
+
+.europe {
+    background-color:green;
+}
+
+.north-america {
+    background-color: yellow;
+}
+
+.south-america {
+    background-color: blue;
+
+}
+
+.africa {
+    background-color: purple;
+
+}
+.oceania {
+    background-color: orange;
+}
+
+.quiz {
+    background-color: orange;
+}
